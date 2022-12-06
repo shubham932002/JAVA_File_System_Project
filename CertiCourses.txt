@@ -1,0 +1,3 @@
+24CoA01$1$Advance Java$2 months$S/W development$85
+24CoA51$1$Python$1 month$Python Basics$92
+23ITB03$1$C++$2 months$OOP's$88
