@@ -1,0 +1,11 @@
+1$1$1$Primary Round$Aptitude, C, C++$200$PRN1, PRN2, ..... , PRN 200
+1$1$2$Technical$Python, Java$75$PRN1, ..... , PRN75
+1$1$3$Coding Round$S/W Development$20$PRN1, ...... , PRN20
+1$1$4$Coding-2 Round$Full Stack Java$8$PRN1, ....., PRN8
+1$1$5$HR Round$Problem Solving$4$PRN1 , .., PRN4
+2$2$1$Initial Round$Apti, C , C++$300$PRN1, ...., PRN300
+2$2$2$Technical-1 Round$Python Coding$150$PRN1, ....., PRN150
+2$2$3$Technical-2 Round$Java Coding Techniques$50$PRN1, ...., PRN50
+2$2$4$Coding-1 Round$S/W Project Skills$12$PRN1, ..... PRN12
+2$2$5$Coding-2 Round$S/W Skills$9$PRN1, ... PRN9
+2$2$6$HR Round$General Skills$9$PRN1, ...., PRN9

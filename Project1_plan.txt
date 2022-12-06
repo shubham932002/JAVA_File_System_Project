@@ -1,0 +1,204 @@
+------------------------------
+JAVA Full Stack:
+------------------------------
+
+S/w Project - 1
+(mini project)
+------------------------------
+
+Project Title:
+Students Campus Placement Information System
+------------------------------
+
+
+------------------------------
+Core Activities of S/w Project --
+------------------------------
+
+1. Students Registration for Job placement
+2. Students Academic Results record keeping
+3. Students Certified Courses / Projects record keeping
+4. Job provider Companies data retrieval
+
+5. Confirmation & Scheduling of Placement Drives 
+6. Conducting the Campus Placement Drive
+7. Maintaining the record of each round within the drive
+8. Selected students placement Entry
+
+9. Producing Primary information
+10. Producing Placement Drives information
+11. Producing Students Placement information
+
+
+Students Registration data
+------------------------------
+1 PRN - Placement Registration number
+2 Student name
+3 Batch Year number 
+4 Branch
+5 Division
+6 Roll number
+7 Permanent Address
+8 Gender
+9 Mobile number
+10 E-Mail ID
+11 Hobbies
+12 Expertise Areas
+13 Competitive Awards
+
+
+
+Students Academic Results data 
+------------------------------
+1 PRN
+2 Sem-1 % marks
+3 Sem-2 % marks
+4 Sem-3 % marks
+5 Sem-4 % marks
+6 Sem-5 % marks
+7 Sem-6 % marks
+8 Sem-7 % marks
+9 Active Backlogs
+
+
+
+Students Certified Courses/Projects data
+------------------------------
+1 PRN
+2 Course Sr. No.
+3 Course Title
+4 Course Duration       
+5 Highlighted Key Contents
+6 Result in %
+
+
+
+Job provider Companies data
+------------------------------
+1 Company's ID number
+2 Company name
+3 Office address
+4 Type, Sector
+5 Contact person-1
+6 Person-1 designation
+7 Person-1 Mobile number
+8 Person-1 E-Mail ID
+9 Contact person-2
+10 Person-2 designation
+11 Person-2 Mobile number
+12 Person-2 E-Mail ID
+
+
+
+Placement Drives Schedule data
+------------------------------
+1 Schedule Entry number
+2 Company's ID number
+3 Drive schedule date
+4 Drive Type (OnCampus, OffCampus, PoolCampus, Online)
+5 Eligible batch years
+6 Eligible Branches
+7 Expected expertise areas & skills
+8 No of Job offers
+
+
+
+Conducted Campus Drives  data
+------------------------------
+1 Drive ID number
+2 Drive conduct date
+3. Against the Schedule Number
+4 Drive Type (OnCampus, OffCampus, PoolCampus, Online)
+5 Company's ID number
+6. Drive for - Batch year number
+7. Applicable criteria
+8. Offered Designation
+9. Offered package(in LPA)
+10. No of Rounds conducted 
+11. No of students appeared
+12. No of students placed
+13 Any special Information
+
+
+Drive wise Rounds data 
+------------------------------
+1 Drive ID number
+2 Round number
+3 Round Title
+4 Tested skills
+5 No of students Qualified
+6. Qualified students PRN
+
+
+
+Drive wise placed students data 
+------------------------------
+1 Drive ID number
+2 Student's PRN
+
+
+
+
+
+
+
+
+------------------------------
+S/w Project development plan:
+(Modules, Applications programs)
+------------------------------
+
+-----------
+Module-1
+Primary data retrieval module
+-----------
+1. Students Registration for Job placement (data retrieval form)
+2. Registered Students Academic Results (data retrieval form)
+3. Registered Students Certified Courses (data retrieval form)
+4. Job provider Companies data retrieval form
+
+
+-----------
+Module-2
+Placement Transactions Data Entry module
+-----------
+1. Confirmation & Scheuduling of Placement Drives (Data Entry Form)
+2. Conducting the Campus Placement Drives (Data Entry Form)
+3. Selected students placement Entry
+(Data Entry Form)
+
+
+---------------
+Module-3
+Online Information, Reports module
+------------------------------
+
+---------
+Primary information Reports
+----------
+1. Course wise Registered Students Information report
+2. Students Academic Results Information report
+3. Students Certified Courses Information report
+4. Job provider companies Information report
+
+
+----------------
+Placement Drives Information Reports
+----------------
+1. Confirmed placement drives schedule information report 
+
+2. Organized Campus drives information report
+3. On-Campus placement drives information report
+4. Off-Campus placement drives information report
+5. Pool-Campus placement drives information report
+6. Online placement drives information report
+7. Company wise placement drives information report
+8. Drive wise conducted Rounds information report
+
+-----------------
+ Students Placement information Reports
+------------------
+1. Drive wise Students Placement information Report
+2. Course wise Students Placement information Report
+3. Non placed students information report (course wise)
+4. Placement Summary

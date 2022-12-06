@@ -1,0 +1,44 @@
+1. Confirmed Placement Drives Schedule Information Report
+2. Organised Campus Drives Information Report
+Placed Students Information Report
+Non-Placed Students Information Report
+bw.write(scid + "$" + scdate + "$" + coid + "$" + drtype + "$" + batyrs + "$" + bran + "$" + jobs);
+bw.write(cid + "$" + cdate + "$" + sid + "$" + compid + "$" + drtype + "$" + crit + "$" + desig+ "$" + pack+ "$" + rounds+ "$" + appear+ "$" + placed+ "$" + special);
+
+String batyear, branch, div, rollno;
+
+bw.write("<h3>"+"&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;for the Branch : "+ brn+ "</h3>");
+
+if(branch.equals("Co"))
+                    fullbranch = "Computer";
+                else if(branch.equals("IT"))
+                    fullbranch = "IT";
+                else if(branch.equals("AI"))
+                    fullbranch = "AI&DS";
+                else if(branch.equals("ET"))
+                    fullbranch = "ETC";
+                else if(branch.equals("Ec"))
+                    fullbranch = "Electronics";
+                else if(branch.equals("Me"))
+                    fullbranch = "Mechanical";
+                else if(branch.equals("Ci"))
+                    fullbranch = "Civil";
+                else if(branch.equals("El"))
+                    fullbranch = "Electrical";
+                else if(branch.equals("In"))
+                    fullbranch = "Instrumentation";
+                else if(branch.equals("Ch"))
+                    fullbranch = "Chemical";
+                else if(branch.equals("Pr"))
+                    fullbranch = "Production";
+
+
+
+24CoA01
+24ITC43
+24CiB23
+24PrA03
+24MeA52
+23ETC32
+23ITB03
+24CoA51
