@@ -1,2 +1,2 @@
 # JAVA_File_System_Project
-Project named 'Student Placement Information' developed by using Java programming language as Front-end and File System as Back-end.
+The project named 'Student Placement Information' Developed an application of an information system that can be used by the TNP section of colleges. Frontend-Java AWT. Backend-File System.
